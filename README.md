@@ -9,3 +9,23 @@
 <p align="center">
   <i>CSE Student @ VIT Vellore • AI/ML • Software Development</i>
 </p>
+<br>
+
+<h2>💻 About Me</h2>
+
+```text
+$ cat about.txt
+
+NAME        : J.B.ROHIT PRAGADEESH
+ROLE        : CSE STUDENT @ VIT VELLORE
+FOCUS       : AI/ML • SOFTWARE DEVELOPMENT • WEB
+
+> Curious about how things work.
+> Learning by building.
+> Turning ideas into projects.
+
+CURRENTLY LEARNING
+→ Data Structures & Algorithms
+→ Artificial Intelligence & Machine Learning
+→ Web Development
+→ Database Systems
