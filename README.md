@@ -9,9 +9,10 @@
 <p align="center">
   <i>CSE Student @ VIT Vellore • AI/ML • Software Development</i>
 </p>
-<br>
 
-<h2>💻 About Me</h2>
+---
+
+## 💻 About Me
 
 ```text
 $ cat about.txt
@@ -23,9 +24,38 @@ FOCUS       : AI/ML • SOFTWARE DEVELOPMENT • WEB
 > Curious about how things work.
 > Learning by building.
 > Turning ideas into projects.
+```
 
-CURRENTLY LEARNING
-→ Data Structures & Algorithms
-→ Artificial Intelligence & Machine Learning
-→ Web Development
-→ Database Systems
+---
+
+## 🛠️ Tech Stack
+
+```text
+$ skills --list
+
+LANGUAGES
+C • C++ • Python • JavaScript • SQL
+
+DEVELOPMENT
+HTML • CSS • Node.js • Git • GitHub
+
+INTERESTS
+AI/ML • Web Development • DBMS • Software Engineering
+```
+
+---
+
+## 🚀 Currently Building
+
+```text
+$ ./projects.sh
+
+[01] AI Study Planner
+     → Intelligent study planning assistant
+
+[02] DBMS Case Study
+     → Database design & analysis
+
+[03] More projects loading...
+     → ███████████░░░ 80%
+```
